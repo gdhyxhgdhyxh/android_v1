@@ -1,0 +1,14 @@
+Sexy Editor
+JRebelAndroidPlugin
+com.google.gct
+com.google.appindexing
+com.google.gct.login
+com.android.tools.idea.updater
+com.gooogle.services
+CVS
+com.codota.csp.intellij
+com.android.tools.analytics
+GradleDependenciesHelper
+com.google.gct.testing
+com.google.gct.core
+com.intellij.copyright

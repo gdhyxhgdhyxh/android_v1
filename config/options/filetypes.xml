@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="14">
+    <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="colors.xml" type="PLAIN_TEXT" />
+      <mapping pattern="Test" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

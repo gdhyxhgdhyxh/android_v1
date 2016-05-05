@@ -1,0 +1,22 @@
+<application>
+  <component name="PasswordDatabase">
+    <option name="PASSWORDS">
+      <array>
+        <array>
+          <option value="d9efbd2b296aaeb544422a75825893e072d160e543dc0a43f802c1b8f0fe3786" />
+          <option value="4a8c877b5b5ab5cc867e7bf9518a4a6e1f70aa3b981a57bf7b71d3820f1d6775" />
+          <option value="7d1c891ac69624116fcf0f507a1a85cefd43ef62a384fea17767e4fcc1bc8e75" />
+        </array>
+        <array>
+          <option value="60eeeeb782d4b4245c5d8909cefe100efb7ab6812c64f6b53d68b26528705114" />
+          <option value="58e3b5ae59c935e3a7df20976afdf31d" />
+          <option value="b976b52e942997f90e7e9b0d5119947a" />
+        </array>
+      </array>
+    </option>
+  </component>
+  <component name="SSHConnectionSettings">
+    <successfulAuthentication user="admin@188.188.5.34:29418" method="password" />
+    <successfulAuthentication user="admin@192.168.1.104:29418" method="keyboard-interactive" />
+  </component>
+</application>

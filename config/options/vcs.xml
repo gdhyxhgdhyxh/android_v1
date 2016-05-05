@@ -1,0 +1,44 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/nostra13/Android-Universal-Image-Loader" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/chrisbanes/PhotoView" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/1sters/material_design_zh.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="D:\java\repository\git\hello_as_git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/billy-github/hello_as_git.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://188.188.5.34:10101" />
+          <option name="userName" value="admin" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://188.188.5.7:8890/r/JingDong.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://188.188.5.7:8890" />
+          <option name="userName" value="wjh" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="I:\androidStudio_workspace" />
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="I:\androidStudio_workspace\BlueToothBulb" />
+  </component>
+</application>

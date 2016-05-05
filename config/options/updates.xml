@@ -1,0 +1,43 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <knownUpdateChannels>
+      <item value="AI-2-eap" />
+      <item value="AI-2-milestone" />
+      <item value="AI-2-beta" />
+      <item value="AI-2-release" />
+      <item value="AI-1-eap" />
+      <item value="AI-1-milestone" />
+      <item value="AI-1-beta" />
+      <item value="AI-1-release" />
+      <item value="AI-0-beta" />
+    </knownUpdateChannels>
+    <ignoredBuildNumbers>
+      <item value="141.1903250" />
+    </ignoredBuildNumbers>
+    <outdatedPlugins>
+      <item value="jp.funnything.offing_harbor" />
+      <item value="mobi.hsz.idea.gitignore" />
+      <item value="com.kogitune.intellij.androidPostfixCompletion" />
+      <item value="com.idamobile.android.toolbox" />
+      <item value="com.codota.csp.intellij" />
+      <item value="de.mprengemann.intellij.plugin.androidicons" />
+      <item value="GradleDependenciesHelper" />
+      <item value="eu.inmite.android.plugin.butterknifezelezny" />
+      <item value="GsonFormat" />
+      <item value="JRebelAndroidPlugin" />
+      <item value="EclipseCodeFormatter" />
+      <item value="com.genymotion.idea" />
+    </outdatedPlugins>
+    <knownExternalComponentSources>
+      <item value="Android SDK" />
+    </knownExternalComponentSources>
+    <option name="externalUpdateChannels">
+      <map>
+        <entry key="Android SDK" value="Stable Channel" />
+      </map>
+    </option>
+    <option name="CHECK_NEEDED" value="false" />
+    <option name="LAST_TIME_CHECKED" value="1460127976631" />
+    <option name="LAST_BUILD_CHECKED" value="AI-141.2422023" />
+  </component>
+</application>

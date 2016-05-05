@@ -1,0 +1,608 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="vcs">
+      <project id="library" values="svn" collectionTime="1455625027718" />
+      <project id="hello_as_git1" values="Git" collectionTime="1444628747287" />
+      <project id="temp2" values="svn" collectionTime="1438336799270" />
+      <project id="GitTest2" values="Git" collectionTime="1454348573450" />
+      <project id="RecyclerViewTest" values="svn" collectionTime="1457529727471" />
+      <project id="RefreshListView" values="svn" collectionTime="1457066063268" />
+      <project id="googlePlay_8" values="svn" collectionTime="1438438698631" />
+      <project id="MobileSafe" values="Git" collectionTime="1454572324810" />
+      <project id="sample" values="Git" collectionTime="1457059780857" />
+      <project id="hellosvn" values="svn" collectionTime="1438590788197" />
+      <project id="BlueToothBulb" values="Git" collectionTime="1454315402323" />
+      <project id="Android5.0" values="Git" collectionTime="1457066338053" />
+      <project id="GooglePlay_19" values="svn" collectionTime="1462283336960" />
+      <project id="ViewPagerIndicatorDemo" values="svn" collectionTime="1455624873311" />
+      <project id="temp" values="svn" collectionTime="1438336799050" />
+      <project id="googlePlay_19" values="svn" collectionTime="1456289666547" />
+      <project id="test6" values="svn" collectionTime="1444643812629" />
+      <project id="test5" values="svn" collectionTime="1444643812853" />
+      <project id="test4" values="svn" collectionTime="1444641353059" />
+      <project id="Android-Universal-Image-Loader" values="Git" collectionTime="1438342075706" />
+      <project id="test2" values="svn" collectionTime="1444641399928" />
+      <project id="Xmpp_20160326" values="svn" collectionTime="1459332218945" />
+      <project id="JingDong" values="Git" collectionTime="1457788381514" />
+      <project id="ZhBj_wjh" values="svn" collectionTime="1458468510848" />
+      <project id="hellosvn_1" values="svn" collectionTime="1438591104574" />
+      <project id="PullToRefreshDemo" values="svn" collectionTime="1456156341599" />
+      <project id="GitTest" values="Git" collectionTime="1454314728257" />
+      <project id="Market2" values="svn" collectionTime="1457089879584" />
+      <project id="xmpp_20151013" values="svn" collectionTime="1444815128971" />
+      <project id="HelloWorld" values="svn" collectionTime="1455977493666" />
+      <project id="test11" values="svn" collectionTime="1444645179321" />
+      <project id="android_ycq" values="Git" collectionTime="0" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="xmpp" values="AndroidTestRunConfigurationType" collectionTime="1438865954454" />
+      <project id="Android-Universal-Image-Loader-master" values="GroovyScriptRunConfiguration" collectionTime="1438442813701" />
+      <project id="ZhBj_wjh" values="AndroidTestRunConfigurationType,GroovyScriptRunConfiguration" collectionTime="1458468510851" />
+      <project id="android_ycq" values="AndroidRunConfigurationType,GradleRunConfiguration" collectionTime="0" />
+      <project id="xmpp_project" values="GradleRunConfiguration" collectionTime="1438862935577" />
+      <project id="JingDong" values="GroovyScriptRunConfiguration" collectionTime="1457788381529" />
+      <project id="xmpp_20150831" values="AndroidTestRunConfigurationType" collectionTime="1441100930337" />
+      <project id="xmppdemo59" values="AndroidTestRunConfigurationType" collectionTime="1438865999479" />
+      <project id="hello_as_git1" values="GradleRunConfiguration" collectionTime="1444628747287" />
+      <project id="xmpp_20151013" values="AndroidTestRunConfigurationType" collectionTime="1444815128971" />
+    </group>
+    <group name="compiler">
+      <project id="hello_as_git1" values="compile_parallel,auto_make" collectionTime="1444628747328" />
+      <project id="anroid5.0" values="compile_parallel" collectionTime="1438243895949" />
+      <project id="Android-Universal-Image-Loader-master" values="compile_parallel,auto_make" collectionTime="1438442813774" />
+      <project id="test11" values="compile_parallel,auto_make" collectionTime="1444645179435" />
+    </group>
+    <group name="VCS Log">
+      <project id="sample" values="vcs.log.commit.count=4,vcs.log.git.root.count" collectionTime="1457059781147" />
+      <project id="GitTest2" values="vcs.log.git.root.count,vcs.log.commit.count=5" collectionTime="1454348573503" />
+      <project id="Android5.0" values="vcs.log.git.root.count,vcs.log.commit.count=2" collectionTime="1457066338122" />
+      <project id="BlueToothBulb" values="vcs.log.git.root.count,vcs.log.commit.count=7" collectionTime="1454315402378" />
+      <project id="GitTest" values="vcs.log.git.root.count,vcs.log.commit.count=4" collectionTime="1454314728316" />
+      <project id="MobileSafe" values="vcs.log.git.root.count,vcs.log.commit.count=7" collectionTime="1454572325116" />
+    </group>
+    <group name="language-level">
+      <project id="helloas" values="JDK_1_7" collectionTime="1438782194948" />
+      <project id="TestWebView_3" values="JDK_1_6" collectionTime="1458288812080" />
+      <project id="PagerSlidingTabStripDemo" values="JDK_1_7" collectionTime="1456315665922" />
+      <project id="GooglePlay" values="JDK_1_7" collectionTime="1440063696091" />
+      <project id="my01_Q币领取" values="JDK_1_6" collectionTime="1449740896833" />
+      <project id="PhotoView-master" values="JDK_1_6" collectionTime="0" />
+      <project id="JingDong" values="JDK_1_7" collectionTime="1457788382280" />
+      <project id="JniDemo" values="JDK_1_7" collectionTime="1459178820145" />
+      <project id="wjh_jd" values="JDK_1_7" collectionTime="1457262534207" />
+      <project id="xmpp_project" values="JDK_1_7" collectionTime="1438862935662" />
+      <project id="temp" values="JDK_1_7" collectionTime="1438336799173" />
+      <project id="android5.0_2015年8月2日" values="JDK_1_7" collectionTime="1438496866621" />
+      <project id="Xmpp_20160326" values="JDK_1_7" collectionTime="1459332219119" />
+      <project id="hellosvn_1" values="JDK_1_7" collectionTime="1438591104681" />
+      <project id="UC_API_IT_Demo_Android" values="JDK_1_6" collectionTime="1460989028465" />
+      <project id="test3" values="JDK_1_7" collectionTime="1444639379032" />
+      <project id="hello_as_git1" values="JDK_1_7" collectionTime="1444628747329" />
+      <project id="RefreshListView" values="JDK_1_7" collectionTime="1457066063616" />
+      <project id="testtesttest" values="JDK_1_7" collectionTime="1438496480391" />
+      <project id="JdTest" values="JDK_1_7" collectionTime="1457580116954" />
+      <project id="android_workspace" values="JDK_1_6" collectionTime="1449678587654" />
+      <project id="BlueToothBulb" values="JDK_1_7" collectionTime="1454315402378" />
+      <project id="ImageLoadDemo" values="JDK_1_7" collectionTime="1456226452645" />
+      <project id="android5.0_综合demo" values="JDK_1_7" collectionTime="1438495482796" />
+      <project id="JDMall" values="JDK_1_7" collectionTime="1460296562649" />
+      <project id="UC_API_IT" values="JDK_1_7" collectionTime="1460990173267" />
+      <project id="HelloWorld" values="JDK_1_7" collectionTime="1455977493780" />
+      <project id="Android-Universal-Image-Loader" values="JDK_1_7" collectionTime="1438342075794" />
+      <project id="xmpp" values="JDK_1_6" collectionTime="1438865954493" />
+      <project id="sample" values="JDK_1_6" collectionTime="1457059781149" />
+      <project id="SaasApp2Rx" values="JDK_1_7" collectionTime="1460983481045" />
+      <project id="hello_as" values="JDK_1_6" collectionTime="1438406240604" />
+      <project id="Mobilesafe" values="JDK_1_7" collectionTime="1454412900888" />
+      <project id="xmpp_20150831" values="JDK_1_7" collectionTime="1441100930381" />
+      <project id="helloas_git" values="JDK_1_7" collectionTime="1438593930357" />
+      <project id="android_ycq" values="JDK_1_6" collectionTime="0" />
+      <project id="UC_API_IT_Demo" values="JDK_1_7" collectionTime="1461421494257" />
+      <project id="PullToRefresh" values="JDK_1_6" collectionTime="1456201533383" />
+      <project id="xmpp_2015年8月6日" values="JDK_1_6" collectionTime="1438866182527" />
+      <project id="xmppdemo59" values="JDK_1_7" collectionTime="1438865999522" />
+      <project id="test6" values="JDK_1_7" collectionTime="1444643812742" />
+      <project id="test5" values="JDK_1_7" collectionTime="1444643812888" />
+      <project id="test4" values="JDK_1_7" collectionTime="1444641353105" />
+      <project id="socket.io-android-chat-master" values="JDK_1_7" collectionTime="0" />
+      <project id="test2" values="JDK_1_7" collectionTime="1444641399968" />
+      <project id="HairStyle" values="JDK_1_7" collectionTime="1440256676548" />
+      <project id="MyApplication" values="JDK_1_6" collectionTime="1460990174941" />
+      <project id="test11" values="JDK_1_7" collectionTime="1444645179439" />
+      <project id="GitTest2" values="JDK_1_7" collectionTime="1454348573503" />
+      <project id="Market2" values="JDK_1_7" collectionTime="1457089880063" />
+      <project id="Android5.0" values="JDK_1_7,JDK_1_6" collectionTime="1457066338122" />
+      <project id="Android-Universal-Image-Loader-master" values="JDK_1_7" collectionTime="1438442813781" />
+      <project id="hello_as_git" values="JDK_1_7" collectionTime="1438401474960" />
+      <project id="android5.0_zonghe" values="JDK_1_7" collectionTime="1454072283746" />
+      <project id="GitTest" values="JDK_1_7" collectionTime="1454314728316" />
+      <project id="HelloAs" values="JDK_1_6" collectionTime="1438587176659" />
+      <project id="picLoadBase" values="JDK_1_7" collectionTime="1456575368232" />
+      <project id="xmpp_20151013" values="JDK_1_7" collectionTime="1444815129046" />
+      <project id="temp2" values="JDK_1_7" collectionTime="1438336799301" />
+      <project id="anroid5.0_‎2015年‎6月‎14日" values="JDK_1_7" collectionTime="1438494860900" />
+      <project id="googleplay_v3" values="JDK_1_6" collectionTime="1438483505258" />
+      <project id="jd_wjh" values="JDK_1_7" collectionTime="1457098381075" />
+      <project id="JniTest" values="JDK_1_7" collectionTime="1453996233035" />
+      <project id="anroid5.0_‎20150‎6‎14" values="JDK_1_6" collectionTime="1438527412073" />
+      <project id="anroid5.0" values="JDK_1_7" collectionTime="1438243895957" />
+      <project id="android_lollipop" values="JDK_1_6" collectionTime="1434262497866" />
+      <project id="library" values="JDK_1_6" collectionTime="1455625027936" />
+      <project id="weishijie-develop-master" values="JDK_1_7" collectionTime="1458820369545" />
+      <project id="android5.0_20150802" values="JDK_1_7" collectionTime="1442059974003" />
+      <project id="My Application" values="JDK_1_7" collectionTime="1453955839272" />
+      <project id="PullToRefreshDemo" values="JDK_1_6" collectionTime="1456156341873" />
+      <project id="Teskdf" values="JDK_1_7" collectionTime="1453889769842" />
+      <project id="ZhBj_wjh" values="JDK_1_7" collectionTime="1458468511274" />
+      <project id="ViewPagerIndicatorDemo" values="JDK_1_7" collectionTime="1455624873634" />
+      <project id="hello5.0" values="JDK_1_7" collectionTime="1438680379844" />
+      <project id="9GAG-master" values="JDK_1_7" collectionTime="0" />
+      <project id="Project2" values="JDK_1_6" collectionTime="1438581540008" />
+      <project id="ShareSdkDemo" values="JDK_1_7" collectionTime="1457619857234" />
+      <project id="libs" values="JDK_1_6" collectionTime="1438588347754" />
+      <project id="googlePlay_8" values="JDK_1_6" collectionTime="1438438698686" />
+      <project id="10000know" values="JDK_1_6" collectionTime="0" />
+      <project id="GooglePlay_19" values="JDK_1_7" collectionTime="1462283337301" />
+      <project id="FancyCoverFlowDemo" values="JDK_1_6" collectionTime="1457627912192" />
+      <project id="xmpp_20150914" values="JDK_1_7" collectionTime="1444815128551" />
+      <project id="SimpleMvpDemo" values="JDK_1_7" collectionTime="1458528953593" />
+      <project id="hellosvn" values="JDK_1_7" collectionTime="1438590788272" />
+      <project id="googlePlay_19" values="JDK_1_7" collectionTime="1456289666640" />
+      <project id="MobileSafe" values="JDK_1_7" collectionTime="1454572325118" />
+      <project id="xmpp_20150807" values="JDK_1_7" collectionTime="1444704847663" />
+      <project id="xmpp_20150806" values="JDK_1_6" collectionTime="1441098870829" />
+      <project id="android_sample(5.0综合demo)" values="JDK_1_6,JDK_1_7" collectionTime="1454070622666" />
+      <project id="Smart" values="JDK_1_6,JDK_1_7" collectionTime="1454307405799" />
+      <project id="GooglePlayServerAndroid" values="JDK_1_6" collectionTime="1456659091564" />
+      <project id="RecyclerViewTest" values="JDK_1_7" collectionTime="1457529727568" />
+    </group>
+    <group name="svn working copy format">
+      <project id="Xmpp_20160326" values="1.8" collectionTime="1459332219119" />
+      <project id="hellosvn_1" values="1.6" collectionTime="1438591104681" />
+      <project id="RecyclerViewTest" values="1.8" collectionTime="1457529727568" />
+      <project id="temp2" values="1.6" collectionTime="1438336799302" />
+      <project id="hellosvn" values="1.6" collectionTime="1438590788273" />
+      <project id="xmpp_20151013" values="1.6" collectionTime="1444815129048" />
+      <project id="ZhBj_wjh" values="1.8" collectionTime="1458468511276" />
+      <project id="Market2" values="1.6" collectionTime="1457089880077" />
+      <project id="RefreshListView" values="1.8,1.8" collectionTime="1457066063616" />
+      <project id="temp" values="1.6" collectionTime="1438336799174" />
+      <project id="HelloWorld" values="1.8" collectionTime="1455977493780" />
+      <project id="googlePlay_8" values="1.6" collectionTime="1438438698687" />
+      <project id="GooglePlay_19" values="1.8" collectionTime="1462283337302" />
+      <project id="test11" values="1.6" collectionTime="1444645179440" />
+      <project id="googlePlay_19" values="1.8" collectionTime="1456289666640" />
+      <project id="test6" values="1.8" collectionTime="1444643812743" />
+      <project id="test5" values="1.6" collectionTime="1444643812888" />
+      <project id="test4" values="1.6" collectionTime="1444641353105" />
+    </group>
+    <group name="frameworks">
+      <project id="helloas" values="android,java-gradle,android-gradle" collectionTime="1438782194867" />
+      <project id="PagerSlidingTabStripDemo" values="android,java-gradle" collectionTime="1456315665862" />
+      <project id="GooglePlay" values="java-gradle,android,android-gradle" collectionTime="1440063695883" />
+      <project id="PhotoView-master" values="android,android-gradle" collectionTime="0" />
+      <project id="ZhBj_wjh" values="java-gradle,android-gradle,android" collectionTime="1458468510849" />
+      <project id="JingDong" values="android-gradle,java-gradle,android" collectionTime="1457788381515" />
+      <project id="android_lollipop" values="java-gradle,android,android-gradle" collectionTime="1434262497747" />
+      <project id="wjh_jd" values="android-gradle,android,java-gradle" collectionTime="1457262534127" />
+      <project id="xmpp_project" values="java-gradle,android-gradle,android" collectionTime="1438862935575" />
+      <project id="socket.io-android-chat-master" values="android-gradle,android,java-gradle" collectionTime="0" />
+      <project id="temp" values="android-gradle,java-gradle,android" collectionTime="1438336799050" />
+      <project id="android5.0_2015年8月2日" values="java-gradle,android-gradle,android" collectionTime="1438496866519" />
+      <project id="Xmpp_20160326" values="java-gradle,android-gradle,android" collectionTime="1459332218945" />
+      <project id="hellosvn_1" values="android,android-gradle,java-gradle" collectionTime="1438591104575" />
+      <project id="hello5.0" values="android,android-gradle,java-gradle" collectionTime="1438680379798" />
+      <project id="UC_API_IT_Demo_Android" values="android-gradle,android" collectionTime="1460989028447" />
+      <project id="hello_as_git1" values="android-gradle,android,java-gradle" collectionTime="1444628747287" />
+      <project id="RefreshListView" values="java-gradle,android-gradle,android" collectionTime="1457066063268" />
+      <project id="testtesttest" values="android-gradle,java-gradle,android" collectionTime="1438496480350" />
+      <project id="JniDemo" values="android-gradle,java-gradle,android" collectionTime="1459178819936" />
+      <project id="JdTest" values="android-gradle,android,java-gradle" collectionTime="1457580116814" />
+      <project id="BlueToothBulb" values="android,android-gradle,java-gradle" collectionTime="1454315402323" />
+      <project id="ImageLoadDemo" values="java-gradle,android,android-gradle" collectionTime="1456226452538" />
+      <project id="android5.0_综合demo" values="android-gradle,android,java-gradle" collectionTime="1438495482735" />
+      <project id="JDMall" values="android,android-gradle,java-gradle" collectionTime="1460296562282" />
+      <project id="UC_API_IT" values="android,android-gradle,java-gradle" collectionTime="1460990173193" />
+      <project id="HelloWorld" values="java-gradle,android,android-gradle" collectionTime="1455977493666" />
+      <project id="Android-Universal-Image-Loader" values="android-gradle,java-gradle,android" collectionTime="1438342075706" />
+      <project id="xmpp" values="android-gradle,java-gradle,android" collectionTime="1438865954454" />
+      <project id="sample" values="android-gradle,android" collectionTime="1457059780858" />
+      <project id="SaasApp2Rx" values="java-gradle,android-gradle,android" collectionTime="1460983480980" />
+      <project id="Mobilesafe" values="android-gradle,java-gradle,android" collectionTime="1454412900673" />
+      <project id="xmpp_20150831" values="android,java-gradle,android-gradle" collectionTime="1441100930337" />
+      <project id="android_ycq" values="android-gradle,java-gradle,android" collectionTime="0" />
+      <project id="UC_API_IT_Demo" values="android-gradle,java-gradle,android" collectionTime="1461421493917" />
+      <project id="xmpp_2015年8月6日" values="android-gradle,java-gradle,android" collectionTime="1438866182392" />
+      <project id="test6" values="android,android-gradle,java-gradle" collectionTime="1444643812630" />
+      <project id="test5" values="android,java-gradle,android-gradle" collectionTime="1444643812853" />
+      <project id="test4" values="java-gradle,android,android-gradle" collectionTime="1444641353059" />
+      <project id="test3" values="java-gradle,android-gradle,android" collectionTime="1444639378889" />
+      <project id="test2" values="android-gradle,android,java-gradle" collectionTime="1444641399928" />
+      <project id="HairStyle" values="android,java-gradle,android-gradle" collectionTime="1440256676334" />
+      <project id="MyApplication" values="android,android-gradle,java-gradle" collectionTime="1460990174882" />
+      <project id="test11" values="java-gradle,android-gradle,android" collectionTime="1444645179321" />
+      <project id="GitTest2" values="android,android-gradle,java-gradle" collectionTime="1454348573450" />
+      <project id="Market2" values="java-gradle,android-gradle,android" collectionTime="1457089879585" />
+      <project id="Android5.0" values="android-gradle,android,java-gradle" collectionTime="1457066338053" />
+      <project id="Android-Universal-Image-Loader-master" values="java-gradle,android,android-gradle" collectionTime="1438442813699" />
+      <project id="hello_as_git" values="java-gradle,android,android-gradle" collectionTime="1438401474855" />
+      <project id="android5.0_zonghe" values="java-gradle,android,android-gradle" collectionTime="1454072283205" />
+      <project id="GitTest" values="java-gradle,android-gradle,android" collectionTime="1454314728257" />
+      <project id="HelloAs" values="java-gradle,android,android-gradle" collectionTime="1438587176608" />
+      <project id="picLoadBase" values="android,android-gradle,java-gradle" collectionTime="1456575368037" />
+      <project id="temp2" values="android,java-gradle,android-gradle" collectionTime="1438336799270" />
+      <project id="anroid5.0_‎2015年‎6月‎14日" values="java-gradle,android-gradle,android" collectionTime="1438494860822" />
+      <project id="googleplay_v3" values="android-gradle,java-gradle,android" collectionTime="1438483505056" />
+      <project id="googlePlay_8" values="android-gradle,android,java-gradle" collectionTime="1438589444974" />
+      <project id="jd_wjh" values="java-gradle" collectionTime="1457098380971" />
+      <project id="JniTest" values="android-gradle,java-gradle,android" collectionTime="1453996232849" />
+      <project id="anroid5.0_‎20150‎6‎14" values="android-gradle,java-gradle,android" collectionTime="1438527412025" />
+      <project id="anroid5.0" values="android-gradle,java-gradle,android" collectionTime="1438243895863" />
+      <project id="library" values="android,android-gradle,java-gradle" collectionTime="1455625027718" />
+      <project id="weishijie-develop-master" values="android-gradle,android,java-gradle" collectionTime="1458820369023" />
+      <project id="android5.0_20150802" values="java-gradle,android,android-gradle" collectionTime="1442059973899" />
+      <project id="PullToRefreshDemo" values="android-gradle,java-gradle,android" collectionTime="1456156341600" />
+      <project id="Teskdf" values="java-gradle" collectionTime="1453889769791" />
+      <project id="helloas_git" values="java-gradle,android-gradle,android" collectionTime="1438593930258" />
+      <project id="ViewPagerIndicatorDemo" values="java-gradle" collectionTime="1455624873312" />
+      <project id="xmppdemo59" values="android-gradle,java-gradle,android" collectionTime="1438865999479" />
+      <project id="9GAG-master" values="java-gradle" collectionTime="0" />
+      <project id="Project2" values="android,java-gradle,android-gradle" collectionTime="1438581539910" />
+      <project id="ShareSdkDemo" values="android-gradle,android,java-gradle" collectionTime="1457619857076" />
+      <project id="GooglePlay_19" values="java-gradle,android-gradle,android" collectionTime="1462283336961" />
+      <project id="PullToRefresh" values="java-gradle,android-gradle,android" collectionTime="1456201532991" />
+      <project id="10000know" values="android,android-gradle" collectionTime="0" />
+      <project id="RecyclerViewTest" values="android-gradle,java-gradle,android" collectionTime="1457529727471" />
+      <project id="FancyCoverFlowDemo" values="android-gradle,java-gradle,android" collectionTime="1457627912102" />
+      <project id="xmpp_20150914" values="java-gradle,android-gradle,android" collectionTime="1444815128216" />
+      <project id="SimpleMvpDemo" values="java-gradle,android-gradle,android" collectionTime="1458528953478" />
+      <project id="hellosvn" values="java-gradle,android-gradle,android" collectionTime="1438590788197" />
+      <project id="googlePlay_19" values="android-gradle,java-gradle,android" collectionTime="1456289666547" />
+      <project id="MobileSafe" values="java-gradle,android-gradle,android" collectionTime="1454572324811" />
+      <project id="xmpp_20150807" values="android-gradle,java-gradle,android" collectionTime="1444704847626" />
+      <project id="xmpp_20150806" values="android-gradle,java-gradle,android" collectionTime="1441098870752" />
+      <project id="android_sample(5.0综合demo)" values="android-gradle,android" collectionTime="1454070622650" />
+      <project id="Smart" values="android-gradle,android,java-gradle" collectionTime="1454307405671" />
+      <project id="GooglePlayServerAndroid" values="android,android-gradle,java-gradle" collectionTime="1456659091520" />
+      <project id="xmpp_20151013" values="android,android-gradle,java-gradle" collectionTime="1444815128971" />
+    </group>
+    <group name="file-type">
+      <project id="helloas" values="Properties,ARCHIVE,JAVA,Images,Groovy,PLAIN_TEXT,IDEA_MODULE,XML,ProGuard File,UNKNOWN" collectionTime="1438782194939" />
+      <project id="TestWebView_3" values="ARCHIVE,UNKNOWN,IDEA_MODULE,JAVA,Properties,Images,XML,HTML,ProGuard File,PLAIN_TEXT" collectionTime="1458288812080" />
+      <project id="PagerSlidingTabStripDemo" values="Properties,ARCHIVE,Git file,UNKNOWN,IDEA_MODULE,PLAIN_TEXT,Groovy,XML" collectionTime="1456315665921" />
+      <project id="GooglePlay" values="UNKNOWN,PLAIN_TEXT,JAVA,XML,Properties,AIDL,ProGuard File,ARCHIVE,Groovy,IDEA_MODULE,Images" collectionTime="1440063696014" />
+      <project id="my01_Q币领取" values="UNKNOWN" collectionTime="1449740896795" />
+      <project id="PhotoView-master" values="Images,XML,PLAIN_TEXT,IDEA_MODULE,JAVA,Properties,Groovy,ARCHIVE,UNKNOWN" collectionTime="0" />
+      <project id="JingDong" values="Images,XML,IDEA_MODULE,JAVA,Properties,ProGuard File,ARCHIVE,UNKNOWN,AIDL,Git file,Groovy,PLAIN_TEXT" collectionTime="1457788381991" />
+      <project id="JniDemo" values="JAVA,IDEA_MODULE,ProGuard File,AIDL,PLAIN_TEXT,Images,Git file,Groovy,UNKNOWN,Properties,XML,ARCHIVE" collectionTime="1459178820143" />
+      <project id="wjh_jd" values="IDEA_MODULE,ARCHIVE,UNKNOWN,Groovy,Git file,PLAIN_TEXT,Properties,XML,AIDL,Images,JAVA,ProGuard File" collectionTime="1457262534206" />
+      <project id="xmpp_project" values="ProGuard File,PLAIN_TEXT,ARCHIVE,JAVA,Groovy,XML,IDEA_MODULE,AIDL,Properties,Images,UNKNOWN" collectionTime="1438862935633" />
+      <project id="temp" values="PLAIN_TEXT,XML,IDEA_MODULE,ProGuard File,JAVA,ARCHIVE,AIDL,Properties,Groovy,Images,UNKNOWN" collectionTime="1438336799158" />
+      <project id="android5.0_2015年8月2日" values="ProGuard File,ARCHIVE,IDEA_MODULE,XML,JAVA,Groovy,PLAIN_TEXT,Images,UNKNOWN,Properties" collectionTime="1438496866618" />
+      <project id="Xmpp_20160326" values="JAVA,Properties,Images,PLAIN_TEXT,AIDL,ProGuard File,ARCHIVE,XML,Groovy,IDEA_MODULE,UNKNOWN,Git file" collectionTime="1459332219119" />
+      <project id="hellosvn_1" values="Images,ProGuard File,IDEA_MODULE,Groovy,UNKNOWN,Properties,JAVA,XML,PLAIN_TEXT,ARCHIVE,CLASS" collectionTime="1438591104677" />
+      <project id="UC_API_IT_Demo_Android" values="Images,XML,UNKNOWN,Groovy,PLAIN_TEXT,ARCHIVE,JAVA,IDEA_MODULE,Properties" collectionTime="1460989028464" />
+      <project id="test3" values="ProGuard File,PLAIN_TEXT,Properties,AIDL,XML,Images,IDEA_MODULE,Groovy,ARCHIVE,JAVA,UNKNOWN" collectionTime="1444639379006" />
+      <project id="hello_as_git1" values="PLAIN_TEXT,AIDL,UNKNOWN,ARCHIVE,IDEA_MODULE,Properties,Groovy,ProGuard File,XML,Images,JAVA" collectionTime="1444628747327" />
+      <project id="RefreshListView" values="XML,Groovy,Images,ProGuard File,ARCHIVE,AIDL,PLAIN_TEXT,UNKNOWN,IDEA_MODULE,Git file,JAVA,Properties" collectionTime="1457066063614" />
+      <project id="testtesttest" values="UNKNOWN,IDEA_MODULE,Images,XML,ProGuard File,JAVA,Groovy,Properties,ARCHIVE,PLAIN_TEXT" collectionTime="1438496480391" />
+      <project id="JdTest" values="Groovy,Git file,ProGuard File,IDEA_MODULE,XML,Properties,JAVA,PLAIN_TEXT,Images,AIDL,UNKNOWN,ARCHIVE" collectionTime="1457580116952" />
+      <project id="android_workspace" values="Properties,XML,PLAIN_TEXT,IDEA_MODULE,ProGuard File,Images,UNKNOWN,CLASS,ObjectiveC,JAVA,ARCHIVE" collectionTime="1449678587653" />
+      <project id="BlueToothBulb" values="PLAIN_TEXT,ARCHIVE,AIDL,Properties,ProGuard File,UNKNOWN,JAVA,IDEA_MODULE,XML,Groovy,Images" collectionTime="1454315402378" />
+      <project id="ImageLoadDemo" values="Properties,XML,Images,PLAIN_TEXT,UNKNOWN,Groovy,ProGuard File,IDEA_MODULE,AIDL,JAVA,Git file,ARCHIVE" collectionTime="1456226452643" />
+      <project id="android5.0_综合demo" values="XML,UNKNOWN,JAVA,IDEA_MODULE,PLAIN_TEXT,Properties,ARCHIVE,AIDL,Groovy,Images,HTML,ProGuard File" collectionTime="1438495482779" />
+      <project id="JDMall" values="Git file,Groovy,ARCHIVE,AIDL,Images,PLAIN_TEXT,IDEA_MODULE,XML,ProGuard File,JAVA,UNKNOWN,Properties" collectionTime="1460296562647" />
+      <project id="UC_API_IT" values="PLAIN_TEXT,Groovy,IDEA_MODULE,Properties,XML,JAVA,UNKNOWN,Images,ARCHIVE,Native" collectionTime="1460990173265" />
+      <project id="HelloWorld" values="UNKNOWN,PLAIN_TEXT,Images,Git file,Groovy,ProGuard File,AIDL,IDEA_MODULE,ARCHIVE,JAVA,Properties,XML" collectionTime="1455977493779" />
+      <project id="Android-Universal-Image-Loader" values="Images,ARCHIVE,PLAIN_TEXT,AIDL,IDEA_MODULE,JAVA,XML,Groovy,UNKNOWN,Properties" collectionTime="1438342075777" />
+      <project id="xmpp" values="IDEA_MODULE,ProGuard File,JAVA,XML,PLAIN_TEXT,UNKNOWN,ARCHIVE,AIDL,Groovy,Properties,Images" collectionTime="1438865954493" />
+      <project id="sample" values="XML,IDEA_MODULE,JAVA,ARCHIVE,PLAIN_TEXT,Images,Properties,UNKNOWN,Groovy" collectionTime="1457059781144" />
+      <project id="SaasApp2Rx" values="ARCHIVE,Properties,Images,PLAIN_TEXT,UNKNOWN,AIDL,Groovy,JAVA,CSS,Git file,ProGuard File,IDEA_MODULE,XML,HTML" collectionTime="1460983481044" />
+      <project id="hello_as" values="UNKNOWN" collectionTime="1438406240598" />
+      <project id="Mobilesafe" values="Images,ProGuard File,Groovy,JAVA,XML,PLAIN_TEXT,ARCHIVE,Properties,AIDL,UNKNOWN,IDEA_MODULE" collectionTime="1454412900873" />
+      <project id="xmpp_20150831" values="Properties,ARCHIVE,UNKNOWN,IDEA_MODULE,Groovy,XML,PLAIN_TEXT,JAVA,Images,ProGuard File,AIDL" collectionTime="1441100930380" />
+      <project id="helloas_git" values="Images,AIDL,Properties,XML,UNKNOWN,IDEA_MODULE,Groovy,PLAIN_TEXT,ProGuard File,JAVA,ARCHIVE" collectionTime="1438593930345" />
+      <project id="android_ycq" values="IDEA_MODULE,UNKNOWN,Groovy,JAVA,Images,C++,AIDL,XML,Properties,ProGuard File,PLAIN_TEXT,ARCHIVE" collectionTime="0" />
+      <project id="UC_API_IT_Demo" values="Native,XML,Properties,Groovy,JAVA,ARCHIVE,Images,UNKNOWN,PLAIN_TEXT,IDEA_MODULE" collectionTime="1461421494170" />
+      <project id="PullToRefresh" values="XML,Images,IDEA_MODULE,Groovy,PLAIN_TEXT,JSON,Git file,UNKNOWN,Properties,JAVA,HTML,ARCHIVE,CLASS" collectionTime="1456201533372" />
+      <project id="xmpp_2015年8月6日" values="Groovy,PLAIN_TEXT,XML,Properties,JAVA,AIDL,ARCHIVE,ProGuard File,UNKNOWN,Images,IDEA_MODULE" collectionTime="1438866182513" />
+      <project id="xmppdemo59" values="IDEA_MODULE,ARCHIVE,Images,PLAIN_TEXT,AIDL,Groovy,ProGuard File,JAVA,Properties,XML,UNKNOWN" collectionTime="1438865999521" />
+      <project id="test6" values="PLAIN_TEXT,IDEA_MODULE,ARCHIVE,JAVA,AIDL,Images,UNKNOWN,XML,ProGuard File,Groovy,Properties" collectionTime="1444643812727" />
+      <project id="test5" values="Images,PLAIN_TEXT,AIDL,ProGuard File,ARCHIVE,JAVA,XML,Groovy,IDEA_MODULE,UNKNOWN,Properties" collectionTime="1444643812887" />
+      <project id="test4" values="Images,Groovy,Properties,XML,UNKNOWN,ARCHIVE,ProGuard File,JAVA,AIDL,PLAIN_TEXT,IDEA_MODULE" collectionTime="1444641353104" />
+      <project id="socket.io-android-chat-master" values="Properties,IDEA_MODULE,UNKNOWN,ARCHIVE,Images,XML,AIDL,Groovy,ProGuard File,PLAIN_TEXT,JAVA" collectionTime="0" />
+      <project id="test2" values="ProGuard File,XML,AIDL,Groovy,IDEA_MODULE,JAVA,Properties,PLAIN_TEXT,Images,ARCHIVE,UNKNOWN" collectionTime="1444641399967" />
+      <project id="HairStyle" values="XML,Properties,Images,JAVA,PLAIN_TEXT,IDEA_MODULE,Groovy,AIDL,ARCHIVE,JSON,ProGuard File,UNKNOWN" collectionTime="1440256676520" />
+      <project id="MyApplication" values="Groovy,Images,JAVA,UNKNOWN,ARCHIVE,IDEA_MODULE,Properties,Git file,XML,PLAIN_TEXT,ProGuard File" collectionTime="1460990174939" />
+      <project id="test11" values="XML,JAVA,ProGuard File,Images,IDEA_MODULE,AIDL,Groovy,Properties,UNKNOWN,ARCHIVE,PLAIN_TEXT" collectionTime="1444645179426" />
+      <project id="GitTest2" values="UNKNOWN,PLAIN_TEXT,Properties,AIDL,JAVA,ProGuard File,IDEA_MODULE,Groovy,ARCHIVE,XML,Images" collectionTime="1454348573503" />
+      <project id="Market2" values="XML,AIDL,Images,IDEA_MODULE,JAVA,Git file,ProGuard File,ARCHIVE,Properties,PLAIN_TEXT,Groovy,UNKNOWN" collectionTime="1457089879929" />
+      <project id="Android5.0" values="Properties,Images,UNKNOWN,AIDL,CLASS,JSON,JAVA,PLAIN_TEXT,IDEA_MODULE,ARCHIVE,Git file,Groovy,XML,ProGuard File" collectionTime="1457066338121" />
+      <project id="Android-Universal-Image-Loader-master" values="Images,JAVA,Groovy,ARCHIVE,IDEA_MODULE,UNKNOWN,XML,AIDL,PLAIN_TEXT,Properties" collectionTime="1438442813758" />
+      <project id="hello_as_git" values="Groovy,ARCHIVE,ProGuard File,AIDL,JAVA,Properties,Images,PLAIN_TEXT,UNKNOWN,XML" collectionTime="1438401474939" />
+      <project id="android5.0_zonghe" values="XML,Groovy,JAVA,PLAIN_TEXT,HTML,ARCHIVE,Images,IDEA_MODULE,Properties,ProGuard File,AIDL,UNKNOWN" collectionTime="1454072283720" />
+      <project id="GitTest" values="Properties,ProGuard File,IDEA_MODULE,Images,XML,UNKNOWN,PLAIN_TEXT,Groovy,AIDL,ARCHIVE,JAVA" collectionTime="1454314728315" />
+      <project id="HelloAs" values="Images,Groovy,JAVA,PLAIN_TEXT,AIDL,Properties,IDEA_MODULE,XML,ProGuard File,ARCHIVE,UNKNOWN" collectionTime="1438587176643" />
+      <project id="picLoadBase" values="XML,AIDL,Properties,ProGuard File,JAVA,UNKNOWN,Git file,Groovy,IDEA_MODULE,Images,PLAIN_TEXT,ARCHIVE" collectionTime="1456575368229" />
+      <project id="xmpp_20151013" values="XML,IDEA_MODULE,ARCHIVE,Groovy,UNKNOWN,AIDL,Properties,ProGuard File,PLAIN_TEXT,JAVA,Images" collectionTime="1444815129044" />
+      <project id="temp2" values="Properties,Groovy,JAVA,ARCHIVE,AIDL,UNKNOWN,PLAIN_TEXT,IDEA_MODULE,Images,XML,ProGuard File" collectionTime="1438336799301" />
+      <project id="anroid5.0_‎2015年‎6月‎14日" values="UNKNOWN,XML,AIDL,Properties,JAVA,ProGuard File,Groovy,IDEA_MODULE,ARCHIVE,Images,PLAIN_TEXT" collectionTime="1438494860881" />
+      <project id="googleplay_v3" values="XML,PLAIN_TEXT,Groovy,IDEA_MODULE,UNKNOWN,ARCHIVE,Properties,Images,JAVA" collectionTime="1438483505248" />
+      <project id="jd_wjh" values="UNKNOWN,IDEA_MODULE,JAVA,Groovy,ProGuard File,Git file,PLAIN_TEXT,CLASS,Properties,Images,AIDL,JSON,ARCHIVE,XML" collectionTime="1457098381074" />
+      <project id="JniTest" values="PLAIN_TEXT,JAVA,IDEA_MODULE,Groovy,ObjectiveC,Properties,ProGuard File,ARCHIVE,AIDL,UNKNOWN,XML,Images" collectionTime="1453996233019" />
+      <project id="anroid5.0_‎20150‎6‎14" values="Groovy,Images,AIDL,PLAIN_TEXT,Properties,IDEA_MODULE,ARCHIVE,JAVA,ProGuard File,UNKNOWN,XML" collectionTime="1438527412072" />
+      <project id="anroid5.0" values="JAVA,Images,XML,ARCHIVE,IDEA_MODULE,UNKNOWN,ProGuard File,Groovy,Properties,PLAIN_TEXT,AIDL" collectionTime="1438243895933" />
+      <project id="android_lollipop" values="ProGuard File,XML,UNKNOWN,AIDL,Properties,IDEA_MODULE,ARCHIVE,Groovy,Images,PLAIN_TEXT,JAVA,HTML" collectionTime="1434262497842" />
+      <project id="library" values="Properties,IDEA_MODULE,AIDL,XML,Images,CLASS,JSON,ARCHIVE,UNKNOWN,ProGuard File,Groovy,PLAIN_TEXT,JAVA" collectionTime="1455625027935" />
+      <project id="weishijie-develop-master" values="Properties,XML,ProGuard File,Images,JAVA,Git file,IDEA_MODULE,AIDL,PLAIN_TEXT,UNKNOWN,Groovy,ARCHIVE" collectionTime="1458820369411" />
+      <project id="android5.0_20150802" values="UNKNOWN,IDEA_MODULE,Groovy,Properties,PLAIN_TEXT,JAVA,ARCHIVE,AIDL,Images,ProGuard File,XML" collectionTime="1442059973975" />
+      <project id="My Application" values="UNKNOWN" collectionTime="1453955839271" />
+      <project id="PullToRefreshDemo" values="UNKNOWN,XML,CLASS,Git file,Groovy,JSON,HTML,ARCHIVE,PLAIN_TEXT,JAVA,Images,Properties,IDEA_MODULE" collectionTime="1456156341852" />
+      <project id="Teskdf" values="JSON,IDEA_MODULE,ARCHIVE,PLAIN_TEXT,Images,ProGuard File,Properties,UNKNOWN,AIDL,XML,JAVA,Groovy" collectionTime="1453889769835" />
+      <project id="ZhBj_wjh" values="IDEA_MODULE,Properties,Git file,ProGuard File,XML,PLAIN_TEXT,Groovy,AIDL,UNKNOWN,JAVA,Images,ARCHIVE" collectionTime="1458468511189" />
+      <project id="ViewPagerIndicatorDemo" values="Images,JAVA,Groovy,ARCHIVE,Properties,ProGuard File,UNKNOWN,PLAIN_TEXT,IDEA_MODULE,AIDL,XML,JSON" collectionTime="1455624873610" />
+      <project id="hello5.0" values="UNKNOWN,Properties,PLAIN_TEXT,ARCHIVE,ProGuard File,IDEA_MODULE,JAVA,AIDL,XML,Images,Groovy" collectionTime="1438680379843" />
+      <project id="9GAG-master" values="CLASS,Images,Properties,IDEA_MODULE,PLAIN_TEXT,ARCHIVE,AIDL,Groovy,JAVA,ProGuard File,UNKNOWN,Manifest,XML" collectionTime="0" />
+      <project id="Project2" values="Groovy,Images,Properties,ARCHIVE,XML,IDEA_MODULE,UNKNOWN,ProGuard File,PLAIN_TEXT,JAVA" collectionTime="1438581540000" />
+      <project id="ShareSdkDemo" values="PLAIN_TEXT,IDEA_MODULE,JAVA,Git file,UNKNOWN,AIDL,Groovy,Properties,XML,ProGuard File,Images,ARCHIVE" collectionTime="1457619857231" />
+      <project id="libs" values="XML,UNKNOWN,ARCHIVE,IDEA_MODULE,PLAIN_TEXT" collectionTime="1438588347747" />
+      <project id="googlePlay_8" values="Groovy,IDEA_MODULE,Properties,Images,ProGuard File,UNKNOWN,ARCHIVE,CLASS,JAVA,XML,PLAIN_TEXT" collectionTime="1438438698683" />
+      <project id="10000know" values="PLAIN_TEXT,ProGuard File,ARCHIVE,XML,Images,Groovy,CLASS,AIDL,Properties,UNKNOWN,IDEA_MODULE,JAVA" collectionTime="0" />
+      <project id="GooglePlay_19" values="IDEA_MODULE,UNKNOWN,Properties,AIDL,Groovy,ARCHIVE,Images,PLAIN_TEXT,ProGuard File,JAVA,XML,Git file" collectionTime="1462283337247" />
+      <project id="FancyCoverFlowDemo" values="XML,Groovy,PLAIN_TEXT,Images,Git file,JAVA,IDEA_MODULE,Properties,UNKNOWN,ARCHIVE" collectionTime="1457627912191" />
+      <project id="xmpp_20150914" values="Properties,UNKNOWN,Images,XML,AIDL,JAVA,IDEA_MODULE,Groovy,ARCHIVE,ProGuard File,PLAIN_TEXT" collectionTime="1444815128474" />
+      <project id="SimpleMvpDemo" values="XML,AIDL,IDEA_MODULE,ProGuard File,ARCHIVE,UNKNOWN,Git file,Groovy,Properties,Images,JAVA,PLAIN_TEXT" collectionTime="1458528953591" />
+      <project id="hellosvn" values="UNKNOWN,ARCHIVE,ProGuard File,Groovy,Images,IDEA_MODULE,Properties,XML,JAVA,AIDL,PLAIN_TEXT" collectionTime="1438590788261" />
+      <project id="googlePlay_19" values="JAVA,UNKNOWN,XML,Images,Properties,ARCHIVE,AIDL,Groovy,Git file,PLAIN_TEXT,ProGuard File,IDEA_MODULE" collectionTime="1456289666640" />
+      <project id="MobileSafe" values="Images,CLASS,AIDL,ProGuard File,ARCHIVE,IDEA_MODULE,UNKNOWN,XML,JSON,Properties,Groovy,PLAIN_TEXT,JAVA" collectionTime="1454572325098" />
+      <project id="xmpp_20150807" values="Groovy,Images,AIDL,XML,Properties,ARCHIVE,PLAIN_TEXT,JAVA,IDEA_MODULE,UNKNOWN,ProGuard File" collectionTime="1444704847662" />
+      <project id="xmpp_20150806" values="JAVA,ProGuard File,IDEA_MODULE,Properties,AIDL,Images,PLAIN_TEXT,ARCHIVE,XML,Groovy,UNKNOWN" collectionTime="1441098870803" />
+      <project id="android_sample(5.0综合demo)" values="JAVA,IDEA_MODULE,UNKNOWN,PLAIN_TEXT,XML,HTML,Images,ARCHIVE,Groovy,Properties,ProGuard File" collectionTime="1454070622665" />
+      <project id="Smart" values="Images,UNKNOWN,PLAIN_TEXT,IDEA_MODULE,ProGuard File,ARCHIVE,JAVA,XML,Properties,Groovy" collectionTime="1454307405793" />
+      <project id="GooglePlayServerAndroid" values="IDEA_MODULE,ARCHIVE,Images,XML,JAVA,Properties,UNKNOWN,PLAIN_TEXT,Groovy" collectionTime="1456659091562" />
+      <project id="RecyclerViewTest" values="UNKNOWN,AIDL,JAVA,ProGuard File,ARCHIVE,Properties,Images,PLAIN_TEXT,IDEA_MODULE,XML,Groovy,Git file" collectionTime="1457529727567" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="helloas" values="AndroidRunConfigurationType" collectionTime="1438782194869" />
+      <project id="PagerSlidingTabStripDemo" values="AndroidRunConfigurationType" collectionTime="1456315665862" />
+      <project id="GooglePlay" values="AndroidRunConfigurationType" collectionTime="1440063695888" />
+      <project id="FancyCoverFlowDemo" values="AndroidRunConfigurationType" collectionTime="1457627912102" />
+      <project id="JingDong" values="AndroidRunConfigurationType" collectionTime="1457788381529" />
+      <project id="android_lollipop" values="AndroidRunConfigurationType" collectionTime="1434262497748" />
+      <project id="wjh_jd" values="AndroidRunConfigurationType" collectionTime="1457262534127" />
+      <project id="xmpp_project" values="AndroidRunConfigurationType" collectionTime="1438862935577" />
+      <project id="socket.io-android-chat-master" values="AndroidRunConfigurationType" collectionTime="0" />
+      <project id="temp" values="AndroidRunConfigurationType" collectionTime="1438336799052" />
+      <project id="android5.0_2015年8月2日" values="AndroidRunConfigurationType" collectionTime="1438496866520" />
+      <project id="Xmpp_20160326" values="AndroidRunConfigurationType" collectionTime="1459332218945" />
+      <project id="hellosvn_1" values="AndroidRunConfigurationType" collectionTime="1438591104576" />
+      <project id="hello5.0" values="AndroidRunConfigurationType" collectionTime="1438680379798" />
+      <project id="hellosvn" values="AndroidRunConfigurationType" collectionTime="1438590788199" />
+      <project id="hello_as_git1" values="AndroidRunConfigurationType" collectionTime="1444628747287" />
+      <project id="RefreshListView" values="AndroidRunConfigurationType" collectionTime="1457066063269" />
+      <project id="JdTest" values="AndroidRunConfigurationType" collectionTime="1457580116814" />
+      <project id="BlueToothBulb" values="AndroidRunConfigurationType" collectionTime="1454315402324" />
+      <project id="ImageLoadDemo" values="AndroidRunConfigurationType" collectionTime="1456226452538" />
+      <project id="android5.0_综合demo" values="AndroidRunConfigurationType" collectionTime="1438495482735" />
+      <project id="JDMall" values="AndroidRunConfigurationType" collectionTime="1460296562282" />
+      <project id="UC_API_IT" values="AndroidRunConfigurationType" collectionTime="1460990173193" />
+      <project id="HelloWorld" values="AndroidRunConfigurationType" collectionTime="1455977493666" />
+      <project id="Android-Universal-Image-Loader" values="AndroidRunConfigurationType" collectionTime="1438342075707" />
+      <project id="xmpp" values="AndroidRunConfigurationType" collectionTime="1438865954454" />
+      <project id="SaasApp2Rx" values="AndroidRunConfigurationType" collectionTime="1460983480980" />
+      <project id="hello_as" values="AndroidRunConfigurationType" collectionTime="1438406240552" />
+      <project id="Mobilesafe" values="AndroidRunConfigurationType" collectionTime="1454412900675" />
+      <project id="xmpp_20150831" values="AndroidRunConfigurationType" collectionTime="1441100930337" />
+      <project id="helloas_git" values="AndroidRunConfigurationType" collectionTime="1438593930258" />
+      <project id="android_ycq" values="AndroidRunConfigurationType" collectionTime="0" />
+      <project id="UC_API_IT_Demo" values="AndroidRunConfigurationType" collectionTime="1461421493919" />
+      <project id="xmpp_2015年8月6日" values="AndroidRunConfigurationType" collectionTime="1438866182394" />
+      <project id="test6" values="AndroidRunConfigurationType" collectionTime="1444643812631" />
+      <project id="test5" values="AndroidRunConfigurationType" collectionTime="1444643812853" />
+      <project id="test4" values="AndroidRunConfigurationType" collectionTime="1444641353059" />
+      <project id="test3" values="AndroidRunConfigurationType" collectionTime="1444639378891" />
+      <project id="test2" values="AndroidRunConfigurationType" collectionTime="1444641399928" />
+      <project id="ViewPagerIndicatorDemo" values="AndroidRunConfigurationType" collectionTime="1455624873315" />
+      <project id="MyApplication" values="AndroidRunConfigurationType" collectionTime="1460990174882" />
+      <project id="test11" values="AndroidRunConfigurationType" collectionTime="1444645179322" />
+      <project id="GitTest2" values="AndroidRunConfigurationType" collectionTime="1454348573450" />
+      <project id="Market2" values="AndroidRunConfigurationType" collectionTime="1457089879587" />
+      <project id="Android-Universal-Image-Loader-master" values="AndroidRunConfigurationType" collectionTime="1438442813701" />
+      <project id="hello_as_git" values="AndroidRunConfigurationType" collectionTime="1438401474857" />
+      <project id="android5.0_zonghe" values="AndroidRunConfigurationType" collectionTime="1454072283207" />
+      <project id="HelloAs" values="AndroidRunConfigurationType" collectionTime="1438587176608" />
+      <project id="picLoadBase" values="AndroidRunConfigurationType" collectionTime="1456575368037" />
+      <project id="temp2" values="AndroidRunConfigurationType" collectionTime="1438336799270" />
+      <project id="anroid5.0_‎2015年‎6月‎14日" values="AndroidRunConfigurationType" collectionTime="1438494860823" />
+      <project id="googleplay_v3" values="AndroidRunConfigurationType" collectionTime="1438483505057" />
+      <project id="googlePlay_8" values="AndroidRunConfigurationType" collectionTime="1438589444974" />
+      <project id="jd_wjh" values="AndroidRunConfigurationType" collectionTime="1457098380971" />
+      <project id="JniTest" values="AndroidRunConfigurationType,AndroidNativeRunConfigurationType" collectionTime="1453996232850" />
+      <project id="anroid5.0_‎20150‎6‎14" values="AndroidRunConfigurationType" collectionTime="1438527412025" />
+      <project id="xmpp_20150807" values="AndroidRunConfigurationType" collectionTime="1444704847626" />
+      <project id="anroid5.0" values="AndroidRunConfigurationType" collectionTime="1438243895864" />
+      <project id="weishijie-develop-master" values="AndroidRunConfigurationType" collectionTime="1458820369026" />
+      <project id="android5.0_20150802" values="AndroidRunConfigurationType" collectionTime="1442059973900" />
+      <project id="PullToRefreshDemo" values="AndroidRunConfigurationType" collectionTime="1456156341601" />
+      <project id="Teskdf" values="AndroidRunConfigurationType" collectionTime="1453889769792" />
+      <project id="ZhBj_wjh" values="AndroidRunConfigurationType" collectionTime="1458468510851" />
+      <project id="xmppdemo59" values="AndroidTestRunConfigurationType,AndroidRunConfigurationType" collectionTime="1438865999479" />
+      <project id="9GAG-master" values="AndroidRunConfigurationType" collectionTime="0" />
+      <project id="Project2" values="AndroidRunConfigurationType" collectionTime="1438581539911" />
+      <project id="ShareSdkDemo" values="AndroidRunConfigurationType" collectionTime="1457619857076" />
+      <project id="GooglePlay_19" values="AndroidRunConfigurationType" collectionTime="1462283336962" />
+      <project id="PullToRefresh" values="AndroidRunConfigurationType" collectionTime="1456201532993" />
+      <project id="HairStyle" values="AndroidRunConfigurationType" collectionTime="1440256676337" />
+      <project id="RecyclerViewTest" values="AndroidRunConfigurationType" collectionTime="1457529727471" />
+      <project id="JniDemo" values="AndroidRunConfigurationType" collectionTime="1459178819936" />
+      <project id="testtesttest" values="AndroidRunConfigurationType" collectionTime="1438496480350" />
+      <project id="SimpleMvpDemo" values="AndroidRunConfigurationType" collectionTime="1458528953478" />
+      <project id="xmpp_20150914" values="AndroidRunConfigurationType" collectionTime="1444815128220" />
+      <project id="googlePlay_19" values="AndroidRunConfigurationType" collectionTime="1456289666547" />
+      <project id="MobileSafe" values="AndroidRunConfigurationType" collectionTime="1454572324813" />
+      <project id="GitTest" values="AndroidRunConfigurationType" collectionTime="1454314728257" />
+      <project id="xmpp_20150806" values="AndroidRunConfigurationType" collectionTime="1441098870754" />
+      <project id="My Application" values="AndroidRunConfigurationType" collectionTime="1453955839250" />
+      <project id="GooglePlayServerAndroid" values="AndroidRunConfigurationType" collectionTime="1456659091520" />
+      <project id="xmpp_20151013" values="AndroidRunConfigurationType" collectionTime="1444815128971" />
+    </group>
+    <group name="module type">
+      <project id="helloas" values="JAVA_MODULE" collectionTime="1438782194867" />
+      <project id="TestWebView_3" values="JAVA_MODULE" collectionTime="1458288812023" />
+      <project id="PagerSlidingTabStripDemo" values="JAVA_MODULE" collectionTime="1456315665862" />
+      <project id="GooglePlay" values="JAVA_MODULE" collectionTime="1440063695884" />
+      <project id="PhotoView-master" values="JAVA_MODULE" collectionTime="0" />
+      <project id="ZhBj_wjh" values="JAVA_MODULE" collectionTime="1458468510850" />
+      <project id="JingDong" values="JAVA_MODULE" collectionTime="1457788381515" />
+      <project id="android_lollipop" values="JAVA_MODULE" collectionTime="1434262497747" />
+      <project id="wjh_jd" values="JAVA_MODULE" collectionTime="1457262534127" />
+      <project id="xmpp_project" values="JAVA_MODULE" collectionTime="1438862935576" />
+      <project id="socket.io-android-chat-master" values="JAVA_MODULE" collectionTime="0" />
+      <project id="temp" values="JAVA_MODULE" collectionTime="1438336799050" />
+      <project id="android5.0_2015年8月2日" values="JAVA_MODULE" collectionTime="1438496866520" />
+      <project id="Xmpp_20160326" values="JAVA_MODULE" collectionTime="1459332218945" />
+      <project id="hellosvn_1" values="JAVA_MODULE" collectionTime="1438591104575" />
+      <project id="UC_API_IT_Demo_Android" values="JAVA_MODULE" collectionTime="1460989028447" />
+      <project id="hello_as_git1" values="JAVA_MODULE" collectionTime="1444628747287" />
+      <project id="RefreshListView" values="JAVA_MODULE" collectionTime="1457066063268" />
+      <project id="testtesttest" values="JAVA_MODULE" collectionTime="1438496480350" />
+      <project id="JniDemo" values="JAVA_MODULE" collectionTime="1459178819936" />
+      <project id="JdTest" values="JAVA_MODULE" collectionTime="1457580116814" />
+      <project id="android_workspace" values="JAVA_MODULE" collectionTime="1449678587647" />
+      <project id="BlueToothBulb" values="JAVA_MODULE" collectionTime="1454315402324" />
+      <project id="ImageLoadDemo" values="JAVA_MODULE" collectionTime="1456226452538" />
+      <project id="android5.0_综合demo" values="JAVA_MODULE" collectionTime="1438495482735" />
+      <project id="JDMall" values="JAVA_MODULE" collectionTime="1460296562282" />
+      <project id="UC_API_IT" values="JAVA_MODULE" collectionTime="1460990173193" />
+      <project id="HelloWorld" values="JAVA_MODULE" collectionTime="1455977493666" />
+      <project id="Android-Universal-Image-Loader" values="JAVA_MODULE" collectionTime="1438342075706" />
+      <project id="xmpp" values="JAVA_MODULE" collectionTime="1438865954454" />
+      <project id="sample" values="JAVA_MODULE" collectionTime="1457059780858" />
+      <project id="SaasApp2Rx" values="JAVA_MODULE" collectionTime="1460983480980" />
+      <project id="Mobilesafe" values="JAVA_MODULE" collectionTime="1454412900674" />
+      <project id="xmpp_20150831" values="JAVA_MODULE" collectionTime="1441100930337" />
+      <project id="android_ycq" values="JAVA_MODULE" collectionTime="0" />
+      <project id="UC_API_IT_Demo" values="JAVA_MODULE" collectionTime="1461421493918" />
+      <project id="xmpp_2015年8月6日" values="JAVA_MODULE" collectionTime="1438866182393" />
+      <project id="xmppdemo59" values="JAVA_MODULE" collectionTime="1438865999479" />
+      <project id="test6" values="JAVA_MODULE" collectionTime="1444643812630" />
+      <project id="test5" values="JAVA_MODULE" collectionTime="1444643812853" />
+      <project id="test4" values="JAVA_MODULE" collectionTime="1444641353059" />
+      <project id="test3" values="JAVA_MODULE" collectionTime="1444639378890" />
+      <project id="test2" values="JAVA_MODULE" collectionTime="1444641399928" />
+      <project id="HairStyle" values="JAVA_MODULE" collectionTime="1440256676335" />
+      <project id="MyApplication" values="JAVA_MODULE" collectionTime="1460990174882" />
+      <project id="test11" values="JAVA_MODULE" collectionTime="1444645179322" />
+      <project id="GitTest2" values="JAVA_MODULE" collectionTime="1454348573450" />
+      <project id="Market2" values="JAVA_MODULE" collectionTime="1457089879585" />
+      <project id="Android5.0" values="JAVA_MODULE" collectionTime="1457066338053" />
+      <project id="Android-Universal-Image-Loader-master" values="JAVA_MODULE" collectionTime="1438442813700" />
+      <project id="hello_as_git" values="JAVA_MODULE" collectionTime="1438401474855" />
+      <project id="android5.0_zonghe" values="JAVA_MODULE" collectionTime="1454072283205" />
+      <project id="GitTest" values="JAVA_MODULE" collectionTime="1454314728257" />
+      <project id="HelloAs" values="JAVA_MODULE" collectionTime="1438587176608" />
+      <project id="picLoadBase" values="JAVA_MODULE" collectionTime="1456575368037" />
+      <project id="xmpp_20151013" values="JAVA_MODULE" collectionTime="1444815128971" />
+      <project id="temp2" values="JAVA_MODULE" collectionTime="1438336799270" />
+      <project id="anroid5.0_‎2015年‎6月‎14日" values="JAVA_MODULE" collectionTime="1438494860822" />
+      <project id="googleplay_v3" values="JAVA_MODULE" collectionTime="1438483505056" />
+      <project id="googlePlay_8" values="JAVA_MODULE" collectionTime="1438438698632" />
+      <project id="jd_wjh" values="JAVA_MODULE" collectionTime="1457098380971" />
+      <project id="JniTest" values="JAVA_MODULE" collectionTime="1453996232849" />
+      <project id="anroid5.0_‎20150‎6‎14" values="JAVA_MODULE" collectionTime="1438527412025" />
+      <project id="anroid5.0" values="JAVA_MODULE" collectionTime="1438243895863" />
+      <project id="library" values="JAVA_MODULE" collectionTime="1455625027718" />
+      <project id="weishijie-develop-master" values="JAVA_MODULE" collectionTime="1458820369023" />
+      <project id="android5.0_20150802" values="JAVA_MODULE" collectionTime="1442059973899" />
+      <project id="PullToRefreshDemo" values="JAVA_MODULE" collectionTime="1456156341600" />
+      <project id="libs" values="JAVA_MODULE" collectionTime="1438588347721" />
+      <project id="helloas_git" values="JAVA_MODULE" collectionTime="1438593930258" />
+      <project id="ViewPagerIndicatorDemo" values="JAVA_MODULE" collectionTime="1455624873313" />
+      <project id="hello5.0" values="JAVA_MODULE" collectionTime="1438680379798" />
+      <project id="9GAG-master" values="JAVA_MODULE" collectionTime="0" />
+      <project id="Project2" values="JAVA_MODULE" collectionTime="1438581539910" />
+      <project id="ShareSdkDemo" values="JAVA_MODULE" collectionTime="1457619857076" />
+      <project id="GooglePlay_19" values="JAVA_MODULE" collectionTime="1462283336961" />
+      <project id="PullToRefresh" values="JAVA_MODULE" collectionTime="1456201532992" />
+      <project id="10000know" values="JAVA_MODULE" collectionTime="0" />
+      <project id="FancyCoverFlowDemo" values="JAVA_MODULE" collectionTime="1457627912102" />
+      <project id="xmpp_20150914" values="JAVA_MODULE" collectionTime="1444815128216" />
+      <project id="SimpleMvpDemo" values="JAVA_MODULE" collectionTime="1458528953478" />
+      <project id="hellosvn" values="JAVA_MODULE" collectionTime="1438590788198" />
+      <project id="Teskdf" values="JAVA_MODULE" collectionTime="1453889769791" />
+      <project id="googlePlay_19" values="JAVA_MODULE" collectionTime="1456289666547" />
+      <project id="MobileSafe" values="JAVA_MODULE" collectionTime="1454572324811" />
+      <project id="xmpp_20150807" values="JAVA_MODULE" collectionTime="1444704847626" />
+      <project id="xmpp_20150806" values="JAVA_MODULE" collectionTime="1441098870752" />
+      <project id="android_sample(5.0综合demo)" values="JAVA_MODULE" collectionTime="1454070622650" />
+      <project id="Smart" values="JAVA_MODULE" collectionTime="1454307405672" />
+      <project id="GooglePlayServerAndroid" values="JAVA_MODULE" collectionTime="1456659091520" />
+      <project id="RecyclerViewTest" values="JAVA_MODULE" collectionTime="1457529727471" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="2" />
+      <entry feature="execute.AndroidRunConfigurationType.Debug" count="87" />
+      <entry feature="execute.AndroidRunConfigurationType.Debug with JRebel for Android" count="37" />
+      <entry feature="execute.AndroidRunConfigurationType.JRebel for Android" count="103" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="2635" />
+      <entry feature="execute.AndroidTestRunConfigurationType.Debug" count="4" />
+      <entry feature="execute.AndroidTestRunConfigurationType.Run" count="231" />
+      <entry feature="execute.GradleRunConfiguration.Debug" count="9" />
+      <entry feature="execute.GradleRunConfiguration.Run" count="25" />
+      <entry feature="execute.GroovyScriptRunConfiguration.Run" count="23" />
+      <entry feature="execute.JUnit.Coverage" count="1" />
+      <entry feature="execute.JUnit.Run" count="4" />
+      <entry feature="execute.Remote.Debug" count="55" />
+      <entry feature="ide.help.Non-Project_Files_Access_Dialog" count="2" />
+      <entry feature="ide.help.configurable.group.editor.help.topic" count="1" />
+      <entry feature="ide.help.ideaInterface.editor" count="5" />
+      <entry feature="ide.help.refactoring.renameDialogs" count="1" />
+      <entry feature="ide.help.reference.svn.repository" count="1" />
+      <entry feature="ide.help.top" count="2" />
+      <entry feature="ide.settings.Android_Logcat" count="1" />
+      <entry feature="ide.settings.Android_SDK" count="2" />
+      <entry feature="ide.settings.Appearance" count="29" />
+      <entry feature="ide.settings.Auto_Import" count="1" />
+      <entry feature="ide.settings.ButterKnifeZelezny" count="2" />
+      <entry feature="ide.settings.Code_Completion" count="7" />
+      <entry feature="ide.settings.Code_Folding" count="7" />
+      <entry feature="ide.settings.Code_Style" count="16" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="7" />
+      <entry feature="ide.settings.Compiler" count="12" />
+      <entry feature="ide.settings.Compiler_(Gradle-based_Android_Projects)" count="1" />
+      <entry feature="ide.settings.Console_Font" count="2" />
+      <entry feature="ide.settings.Debugger" count="2" />
+      <entry feature="ide.settings.Eclipse&#10;Code_Formatter" count="11" />
+      <entry feature="ide.settings.Editor" count="2" />
+      <entry feature="ide.settings.File_Encodings" count="51" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="30" />
+      <entry feature="ide.settings.Font" count="8" />
+      <entry feature="ide.settings.General" count="9" />
+      <entry feature="ide.settings.Genymotion" count="14" />
+      <entry feature="ide.settings.Git" count="2" />
+      <entry feature="ide.settings.GitHub" count="3" />
+      <entry feature="ide.settings.Gradle" count="89" />
+      <entry feature="ide.settings.HTTP_Proxy" count="14" />
+      <entry feature="ide.settings.Ignored_Files" count="7" />
+      <entry feature="ide.settings.Inspections" count="4" />
+      <entry feature="ide.settings.Java" count="28" />
+      <entry feature="ide.settings.Keymap" count="124" />
+      <entry feature="ide.settings.Live_Templates" count="55" />
+      <entry feature="ide.settings.Menus_and_Toolbars" count="10" />
+      <entry feature="ide.settings.Plugins" count="3" />
+      <entry feature="ide.settings.Project_Structure" count="219" />
+      <entry feature="ide.settings.SexyEditor" count="19" />
+      <entry feature="ide.settings.Subversion" count="9" />
+      <entry feature="ide.settings.System_Settings" count="4" />
+      <entry feature="ide.settings.Tasks" count="1" />
+      <entry feature="ide.settings.Updates" count="2" />
+      <entry feature="ide.settings.Version_Control" count="16" />
+      <entry feature="ide.settings.XML" count="1" />
+      <entry feature="idea.caches.invalidated" count="1" />
+      <entry feature="ideaapp.started" count="353" />
+      <entry feature="tips.of.the.day.next" count="18" />
+    </counts>
+  </component>
+</application>
